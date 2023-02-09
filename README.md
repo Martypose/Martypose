@@ -5,5 +5,4 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Martypose"/>
