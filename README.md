@@ -10,5 +10,4 @@
 
 
 <p></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Martypose"/>
-k
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Martypose?exclude_repo=Riverpod_test6"/>
